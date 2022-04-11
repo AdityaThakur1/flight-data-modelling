@@ -1,0 +1,7 @@
+# ignore archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.csv
+*.env
