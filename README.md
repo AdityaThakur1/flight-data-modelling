@@ -27,7 +27,7 @@ Project Organization
         │
         ├── build_features.py <- Scripts to analyse data
         │
-        └── train_model.py   <- Scripts to train models and then use trained models to make
+        └── data_analysis.ipynb  <- Scripts to train models and then use trained models to make
                                 predictions
 
 
